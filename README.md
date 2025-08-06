@@ -1,7 +1,5 @@
 
-
-### 📄 **README.md: Flask Metrics App with Prometheus & Grafana on Minikube**
-
+---
 # 🚀 Flask Metrics App on Kubernetes with Prometheus & Grafana
 
 A modern cloud-native monitoring setup using **Flask**, **Docker**, **Kubernetes (Minikube)**, **Prometheus**, and **Grafana**.
@@ -235,24 +233,14 @@ http://prometheus-server.monitoring.svc.cluster.local:80
 
 ---
 
-## 📌 Final Notes
-
-* All monitoring is happening **inside the Kubernetes cluster**.
-* Port forwarding is only needed for **local testing**.
-* Can be extended to production clusters like EKS, GKE, or AKS.
-
----
-
 ## 📬 Questions?
 
 Feel free to reach out if you'd like to collaborate, ask questions, or hire me!
 
----
+## 📬 Connect with Me
 
-```
+Feel free to reach out if you'd like to collaborate, ask questions, or hire me!
 
----
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sk-mahiduzzaman)
+- 📧 [mohiduz03@gmail.com](mailto:mohiduz03@gmail.com)
 
-Would you like me to export this as a downloadable `README.md` file?  
-Also, do you want sample **screenshots**, **badges**, or a **demo video link section** added?
-```
