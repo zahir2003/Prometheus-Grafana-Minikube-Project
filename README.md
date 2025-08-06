@@ -237,10 +237,15 @@ http://prometheus-server.monitoring.svc.cluster.local:80
 
 Feel free to reach out if you'd like to collaborate, ask questions, or hire me!
 
-## 📬 Connect with Me
+## 👨‍💻 Author
 
-Feel free to reach out if you'd like to collaborate, ask questions, or hire me!
+**Sk Mahiduzzaman**
+📫 [Email](mailto:mohiduz03@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/sk-mahiduzzaman)
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sk-mahiduzzaman)
-- 📧 [mohiduz03@gmail.com](mailto:mohiduz03@gmail.com)
+---
+
+## 🌟 Want to Collaborate?
+
+Feel free to fork, star ⭐ this repo, or open an issue! Let’s build something cloud-native together.
 
