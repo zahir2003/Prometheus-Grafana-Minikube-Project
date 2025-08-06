@@ -243,9 +243,5 @@ Feel free to reach out if you'd like to collaborate, ask questions, or hire me!
 📫 [Email](mailto:mohiduz03@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/sk-mahiduzzaman)
 
----
 
-## 🌟 Want to Collaborate?
-
-Feel free to fork, star ⭐ this repo, or open an issue! Let’s build something cloud-native together.
 
